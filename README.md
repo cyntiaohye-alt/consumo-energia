@@ -18,5 +18,6 @@ Tecnologias
 
 
 👩‍💻 Desenvolvedora
+
 Cyntia Naomi Ohye
 Estudante de Desenvolvimento de Sistemas

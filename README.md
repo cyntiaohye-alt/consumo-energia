@@ -19,5 +19,5 @@ Tecnologias
 
 👩‍💻 Desenvolvedora
 
-Cyntia Naomi Ohye
+Cyntia Naomi Ohye\n
 Estudante de Desenvolvimento de Sistemas
